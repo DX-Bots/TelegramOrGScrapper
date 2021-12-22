@@ -8,7 +8,7 @@
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BXBots/MyTelegramOrgRoBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DX-Bots/TelegramOrGScrapper)
 
 
 #### The Legacy Way
