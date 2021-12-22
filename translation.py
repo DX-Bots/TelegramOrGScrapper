@@ -1,19 +1,21 @@
 class Translation(object):
-    START_TEXT = """Hai
+    START_TEXT = """Hello!..... 
 
-`Iam a simple my.telegram.org bot. Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org`
+This is a simple my.telegram.org bot. Enter your Telegram Phone Number, to get the APP-ID & API-HASH from my.telegram.org.
 
-`To Restart Progress` /start
+To Restart the Progress for IDs Press /start
 
-👲 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [ʙx ʙᴏᴛᴢ](https://t.me/BX_Botz)"""
-    AFTER_RECVD_CODE_TEXT = """I see!
-now please send the Telegram code that you received from Telegram!
+Made With ❤ By [@TeleRoidGroup](https://t.me/TeleRoidGroup)"""
+    AFTER_RECVD_CODE_TEXT = """Ohh Great !
+Now please send the Telegram code that you received from Telegram!
 
-this code is only used for the purpose of getting the APP ID from my.telegram.org
+This code is only used for the purpose of getting the APP ID from my.telegram.org.
+
+And There Will Be No Issue With Your Account
 
 /start to re-enter your details"""
-    BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@BX_Botz"
-    CANCELLED_MESG = "Bye! Please re /start the bot conversation"
-    IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
-    IN_VALID_PHNO_PVDED = "sorry, but the input does not seem to be a valid phone number"
+    BEFORE_SUCC_LOGIN = "recieved code. Scarpping the web page ..."
+    ERRED_PAGE = "something Went Wrong . Failed to get app id & hash. \n\n@TheTeleRoid"
+    CANCELLED_MESG = "Khatam ! Please re /start the bot conversation & Re-fill the Data"
+    IN_VALID_CODE_PVDED = "Sorry, but the Input does not seem to be a valid Telegram Web-Login code"
+    IN_VALID_PHNO_PVDED = "Sorry, but the Input does not seem to be a valid phone number"
